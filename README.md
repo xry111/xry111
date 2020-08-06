@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Xi Ruoyao is a trivial postgraduate student in Xidian University pursuing a PhD degree,  an assistant ICPC coach, and a Linux From Scrach editor.
+
+Orz everybody!
+
 <!--
 **xry111/xry111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
