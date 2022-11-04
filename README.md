@@ -4,6 +4,8 @@ Xi Ruoyao is a trivial postgraduate student in Xidian University pursuing a PhD 
 
 Orz everybody!
 
+Some note: I have no interest in "open source ideology".  I just consider all open source contributors as friends but even best friends can turn on each other because of some conflict of interest.  Likewisely, I don't trust the concept of "academic community".  Please do not sell your ideologies to me.  If you disagree with me on this, then you are correct but I'll not listen to you (啊对对对).
+
 <!--
 **xry111/xry111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
