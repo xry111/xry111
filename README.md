@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Xi Ruoyao is a trivial postgraduate student in Xidian University pursuing a PhD degree,  an assistant ICPC coach, and a Linux From Scrach editor.
+- Hired by *data deleted* to develop on LoongArch
+- Linux From Scratch editor
+- Retired competitive programming participant, assistant coach, and coordinator
+- Failed to finish the PhD project
 
 Orz everybody!
 
